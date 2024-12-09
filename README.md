@@ -32,8 +32,8 @@ Polymorphism is a key concept demonstrated in this project:
 
 
 Sample Outputs:
-![Alt текст](путь_к_изображению)
-![Alt текст](путь_к_изображению)
+![Alt текст](C1.png)
+![Alt текст](C2.png)
 
 
 ## Explanation of Output:
